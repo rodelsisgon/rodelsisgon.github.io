@@ -1,0 +1,11 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+It contains the core competencies for team members and defines the types of role that exist within the team. These do not replicate our existing set of job titles.
+
+The matrix is intended to used as a guidance to help team members think of some of the things that they might need to aim for when considering whether they are ready to apply for promotion.
+
+**It is not the sole input into the promotions process.**

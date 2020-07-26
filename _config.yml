@@ -10,7 +10,17 @@
 # exclude:
 #  - CNAME
 
+title: Operations Support Progression Matrix
+email: operations.support@ft.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This site is the single source of truth for the competencies and level definitions for Operations Support roles at the FT.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
 theme: minima
+plugins:
+  - jekyll-feed
 
 # Jekyll plugins
 # plugins:
